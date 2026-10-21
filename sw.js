@@ -1,4 +1,4 @@
-const CACHE = "pt3-v2";
+const CACHE = "pt3-v3";
 const CORE = [
   "./",
   "./index.html",

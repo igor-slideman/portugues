@@ -1,7 +1,7 @@
 {
-  "name": "Português em três tempos",
+  "name": "Casa em português",
   "short_name": "Português",
-  "description": "Европейский португальский: три подхода в день по 5–10 минут.",
+  "description": "Португальский для аренды жилья: два коротких подхода в день.",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
